@@ -166,7 +166,7 @@ main {
     object-fit: contain;
 }
 
-.gift-details {
+.language-details {
     flex: 1 1 300px;
     max-width: 500px;
 }
