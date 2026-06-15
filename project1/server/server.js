@@ -1,4 +1,5 @@
 import express from 'express'
+import dotenv from 'dotenv';
 import languagesRouter from './routes/languages.js'
 
 const app = express()
