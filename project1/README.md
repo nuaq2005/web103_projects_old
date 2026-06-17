@@ -1,4 +1,4 @@
-# WEB103 Project 1 - **Language Library**
+# WEB103 Project 2 - **Language Library**
 
 Submitted by: **Aquila Nuzhat**
 
@@ -28,7 +28,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='.\front-end\public\language-library.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='.\front-end\public\language-library-database.gif' title='Video Background Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Screen to Gif
