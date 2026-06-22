@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='.\front-end\public\language-library-database.gif' title='Video Background Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with Screen to Gif
 
