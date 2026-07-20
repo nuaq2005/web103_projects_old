@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
+<img src="/project1/images/language-library-database.gif" />
 
 GIF created with Screen to Gif
 
